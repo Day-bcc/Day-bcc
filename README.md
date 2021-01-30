@@ -37,4 +37,3 @@ Oie, bem vindo ao meu mundo! 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Day-bcc)](https://github.com/Day-bcc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)
-![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
