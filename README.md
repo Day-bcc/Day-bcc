@@ -1,6 +1,10 @@
+
 Oie, bem vindo ao meu mundo! 👋
 
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
+
+Cursando Tecnólogo em Redes de Computadores, escolhir a profissão por Amor, me identifico muito com monitoramento de redes e amo desafios :rocket:
+Sou uma Profissional de TI expandindo os conhecimentos e não sou viciada em café :coffee: :stuck_out_tongue_winking_eye:
 
 ### Estudando :computer:
 
@@ -34,7 +38,6 @@ Oie, bem vindo ao meu mundo! 👋
  
 
 ### 0nde me encontrar 👇🏼
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Day-bcc)](https://github.com/Day-bcc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
