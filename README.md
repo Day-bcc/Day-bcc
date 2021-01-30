@@ -4,7 +4,8 @@ Oie, bem vindo ao meu mundo! 👋
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
 
 Cursando Tecnólogo em Redes de Computadores, escolhir a profissão por Amor, me identifico muito com monitoramento de redes e amo desafios :rocket:
-Sou uma Profissional de TI expandindo os conhecimentos e não sou viciada em café :coffee: :stuck_out_tongue_winking_eye:
+
+Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em café :coffee: :stuck_out_tongue_winking_eye:
 
 ### Estudando :computer:
 
