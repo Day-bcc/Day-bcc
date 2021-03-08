@@ -18,7 +18,9 @@ Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em caf
       <code><img src="https://lasopajar960.weebly.com/uploads/1/2/5/5/125510288/675133152.jpg" width="40" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
-   
+      <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fkubernets&psig=AOvVaw0BeW4HTJ131IDMN2wM4mqA&ust=1615307153832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi38vCPoe8CFQAAAAAdAAAAABAD" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FTiJxwoT_docker-ref-icon-docker-django-hd-png-download%2F&psig=AOvVaw1KonWQYbWVHLALrFMx_xtH&ust=1615307111971000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDbrZCQoe8CFQAAAAAdAAAAABAD" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faspenmesh.io%2Fcategory%2Ftechnology-trends%2F&psig=AOvVaw2F1gcBGFSIar1NX2d-OlK4&ust=1615307289823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjJvdKOoe8CFQAAAAAdAAAAABBD" width="40" height="40"/></code>&nbsp;
 ### Certificações 🧾
  <p align="left">
 </code>&nbsp;
