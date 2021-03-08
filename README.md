@@ -3,9 +3,9 @@ Oie, bem vindo ao meu mundo! 👋
 
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
 
-Cursando Tecnólogo em Redes de Computadores, escolhir a profissão por Amor, me identifico muito com monitoramento de redes e amo desafios :rocket:
+*Cursando Tecnólogo em Redes de Computadores, escolhir a profissão por Amor, me identifico muito com monitoramento de redes e amo desafios* :rocket:
 
-Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em café :coffee: :stuck_out_tongue_winking_eye:
+**Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em café** :coffee: :stuck_out_tongue_winking_eye:
 
 ### Estudando :computer:
 
@@ -18,7 +18,10 @@ Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em caf
       <code><img src="https://lasopajar960.weebly.com/uploads/1/2/5/5/125510288/675133152.jpg" width="40" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
-   
+      <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" alt="Kubernetes - Kubernetes Icon Svg Clipart@pikpng.com" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://miro.medium.com/max/2400/1*5ojGsucagqcYZGswDM4Vfw.png" width="40" height="40"/></code>&nbsp;
+	  
 ### Certificações 🧾
  <p align="left">
 </code>&nbsp;
@@ -29,6 +32,7 @@ Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em caf
 
 ### Cursos 🔛
 
+ - **Udemy - Aprenda tudo sobre o Linux 2021! Completo e Atualizado** 
  - **Udemy - Curso de Zabbix! Completo e atualizado!**
  - **AWS - Business Professional (Digital)**
  - **AWS - Cloud Economics**
