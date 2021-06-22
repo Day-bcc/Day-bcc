@@ -28,7 +28,7 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pJ0opAmLWjgM7pK8z2HV3p9aQ68Prlq4Ig&usqp=CAU" width="40" height="40"/></code>&nbsp;
          <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
-       
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="40"/></code>&nbsp;
 
 ### Cursos 🔛
 
