@@ -28,9 +28,9 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pJ0opAmLWjgM7pK8z2HV3p9aQ68Prlq4Ig&usqp=CAU" width="40" height="40"/></code>&nbsp;
          <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="40"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/2021-ms-azure-az-900.png" width="60" height="50"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="55" height="45"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="58" height="45"/></code>&nbsp;
 
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
