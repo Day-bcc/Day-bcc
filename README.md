@@ -30,7 +30,7 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/2021-ms-azure-az-900.png" width="60" height="50"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="60" height="60"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="50" height="45"/></code>&nbsp;
 
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
