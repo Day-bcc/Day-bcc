@@ -11,7 +11,7 @@ Oie, bem vindo ao meu mundo! 👋
 
  <p align="left">
 </code>&nbsp;
-      <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/azure.png" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://commons.wikimedia.org/w/index.php?search=azure+microsoft&title=Special:MediaSearch&go=Go&type=image" width="40" height="40"/></code>&nbsp;
       <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
       <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ExGUTEwAQn95uM4KUU-OZ7Zz1n2lDrnXfw&usqp=CAU" width="40" height="40"/></code>&nbsp;
       <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJOA0owQsL3YqUXO5Z2zLhY-h-8xlQLXdng&usqp=CAU" width="40" height="40"/></code>&nbsp;
@@ -29,8 +29,8 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/2021-ms-azure-az-900.png" width="60" height="50"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="58" height="45"/></code>&nbsp;
+         <code><img src="https://www.pikpng.com/pngl/m/536-5365012_az-900-microsoft-azure-fundamentals-az-900-certification.png" width="40" height="40"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/linkedin_thumb_AWS-CloudPractitioner-2020.png" width="40" height="40"/></code>&nbsp;
 
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
