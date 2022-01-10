@@ -29,7 +29,7 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
-         <code><img src="https://www.pikpng.com/pngl/m/536-5365012_az-900-microsoft-azure-fundamentals-az-900-certification.png" width="40" height="40"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
 
 ### Cursos 🔛
