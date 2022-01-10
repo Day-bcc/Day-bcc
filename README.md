@@ -11,7 +11,7 @@ Oie, bem vindo ao meu mundo! 👋
 
  <p align="left">
 </code>&nbsp;
-      <code><img src="https://commons.wikimedia.org/w/index.php?search=azure+microsoft&title=Special:MediaSearch&go=Go&type=image" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://www.pngwing.com/pt/free-png-scepz" width="40" height="40"/></code>&nbsp;
       <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
       <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ExGUTEwAQn95uM4KUU-OZ7Zz1n2lDrnXfw&usqp=CAU" width="40" height="40"/></code>&nbsp;
       <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJOA0owQsL3YqUXO5Z2zLhY-h-8xlQLXdng&usqp=CAU" width="40" height="40"/></code>&nbsp;
