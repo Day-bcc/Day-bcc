@@ -1,4 +1,3 @@
-
 Oie, bem vindo ao meu mundo! 👋
 
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
@@ -29,7 +28,8 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="45" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
-
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/16434020703.png" width="40" height="40"/></code>&nbsp;
+         
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
  - **Cisco Network Academy -  CCNA: Switching, Routing, and Wireless Essentials** 
