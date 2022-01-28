@@ -27,9 +27,11 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="45" height="45"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/16434020703.png" width="40" height="45"/></code>&nbsp;
+	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="45" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
-
+         
+         
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
  - **Cisco Network Academy -  CCNA: Switching, Routing, and Wireless Essentials** 
