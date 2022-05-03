@@ -5,8 +5,6 @@ Oie, bem vindo ao meu mundo! 👋
 
 *Formada em Redes de Computadores, escolhir a profissão por Amor e gosto muito de desafios 🚀* :rocket:
 
-**Sou uma profissional de TI expandindo os conhecimentos e não sou viciada em café** :coffee: :stuck_out_tongue_winking_eye:
-
 ### Estudando :computer:
 
  <p align="left">
@@ -26,8 +24,8 @@ Oie, bem vindo ao meu mundo! 👋
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/16434020703.png" width="40" height="45"/></code>&nbsp;
+	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
 	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="45" height="45"/></code>&nbsp;
-         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/microsoft-certified-azure-administrator-associate-az-104.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-700.png" width="40" height="40"/></code>&nbsp;
          
