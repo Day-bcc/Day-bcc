@@ -17,7 +17,6 @@ Oie, bem vindo ao meu mundo! 👋
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" width="40" height="40"/></code>&nbsp;
-      <code><img src="https://lasopajar960.weebly.com/uploads/1/2/5/5/125510288/675133152.jpg" width="40" height="40"/></code>&nbsp;
 	  
 ### Licenças e Certificações 🧾
  <p align="left">
