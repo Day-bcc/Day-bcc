@@ -20,12 +20,13 @@ Oie, bem vindo ao meu mundo! 👋
  <p align="left">
 </code>&nbsp;
          <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pJ0opAmLWjgM7pK8z2HV3p9aQ68Prlq4Ig&usqp=CAU" width="40" height="40"/></code>&nbsp;
-         <code><img src="https://pbs.twimg.com/media/EXh-mm1WkAAJat3.jpg" width="40" height="40"/></code>&nbsp;
+         <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/NSE2 FORTINET.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/23/f1?refresh=9081" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/docker%20distintivo.png" width="40" height="45"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/16434020703.png" width="40" height="45"/></code>&nbsp;
 	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/aws-certified-cloud-practitioner.png" width="40" height="40"/></code>&nbsp;
 	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-900.png" width="40" height="40"/></code>&nbsp;
+	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/SC-900.png" width="40" height="40"/>
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/microsoft-certified-azure-administrator-associate-az-104.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-700.png" width="40" height="40"/></code>&nbsp;
          
@@ -36,6 +37,7 @@ Oie, bem vindo ao meu mundo! 👋
  - **Cisco Network Academy -  Introduction to Cybersecurity** 
  - **LinuxTips - Descomplicando Docker** 
  - **LinuxTips - Descomplicando Kubernetes**
+ - **Udemy - Terraform no Azure** 	
  - **Udemy - Aprenda tudo sobre o Linux 2021! Completo e Atualizado** 
  - **Udemy - Curso de Zabbix! Completo e atualizado!**
  - **AWS - Business Professional (Digital)**
