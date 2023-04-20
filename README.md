@@ -28,6 +28,7 @@ Oie, bem vindo ao meu mundo! 👋
 	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/SC-900.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/microsoft-certified-azure-administrator-associate-az-104.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-700.png" width="40" height="40"/></code>&nbsp;
+	 
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
  - **Cisco Network Academy -  CCNA: Switching, Routing, and Wireless Essentials** 
@@ -44,6 +45,7 @@ Oie, bem vindo ao meu mundo! 👋
  - **AWS - Cloud Practitioner Essentials (Second Edition)**
  - **Dell - SE: Server Credential 2019**
  - **Dell - SE: MidRange Storage Credential 2019**
+ 
 ### 0nde me encontrar 👇🏼
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
 ](https://t.me/day_costah)
