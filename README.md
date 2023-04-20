@@ -3,18 +3,17 @@ Oie, bem vindo ao meu mundo! 👋
 
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
 
-*Formada em Redes de Computadores, escolhir a profissão por Amor e gosto muito de desafios 🚀* :rocket:
+*Sou Formada em Redes de Computadores e atualmente trabalho no mundo Cloud :cloud: :rocket:
 
 ### Estudando :computer:
 
  <p align="left">
 </code>&nbsp;
-      <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/200-301.png" width="45" height="45"/></code>&nbsp; 
-      <code><img src="https://www.pikpng.com/pngl/m/597-5975393_microsoft-azure-logo-windows-microsoft-azure-logo-svg.png" width="45" height="40"/></code>&nbsp;
-      <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
+     <code><img src="https://www.pikpng.com/pngl/m/597-5975393_microsoft-azure-logo-windows-microsoft-azure-logo-svg.png" width="45" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/terraform.png" width="40" height="40"/></code>&nbsp;
 	  
 ### Licenças e Certificações 🧾
  <p align="left">
@@ -49,7 +48,5 @@ Oie, bem vindo ao meu mundo! 👋
  
 
 ### 0nde me encontrar 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
 ](https://t.me/day_costah)
