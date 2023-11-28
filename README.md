@@ -1,4 +1,3 @@
-
 Oie, bem vindo ao meu mundo! 👋
 
 ![](https://4.bp.blogspot.com/-iz8s86qYrks/Vt7w-CeUkfI/AAAAAAAADxY/ac_nF2x3D0A/s1600/mulheres%2Bna%2Barea%2Bde%2Bti.jpg)
@@ -14,6 +13,7 @@ Oie, bem vindo ao meu mundo! 👋
       <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" width="40" height="40"/></code>&nbsp;
 	  <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/terraform.png" width="40" height="40"/></code>&nbsp;
+	  <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/MS-900.png" width="40" height="40"/></code>&nbsp;
 	  
 ### Licenças e Certificações 🧾
  <p align="left">
@@ -35,15 +35,12 @@ Oie, bem vindo ao meu mundo! 👋
  - **LinuxTips - Descomplicando Docker** 
  - **LinuxTips - Descomplicando Kubernetes**
  - **Udemy - Terraform no Azure** 	
- - **Udemy - Aprenda tudo sobre o Linux 2021! Completo e Atualizado** 
  - **Udemy - Curso de Zabbix! Completo e atualizado!**
  - **AWS - Business Professional (Digital)**
  - **AWS - Cloud Economics**
  - **AWS - Technical Professional**
  - **AWS - Cloud Practitioner Essentials (Second Edition)**
- - **Dell - SE: Server Credential 2019**
- - **Dell - SE: MidRange Storage Credential 2019**
- 
+
 ### 0nde me encontrar 👇🏼
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayane-costa-9a2973186/)](https://www.linkedin.com/in/dayane-costa-9a2973186/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:day.costaah)](mailto:day.costaah)    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/@day_costah)
 ](https://t.me/day_costah)
