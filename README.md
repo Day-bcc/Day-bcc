@@ -12,8 +12,7 @@ Oie, bem vindo ao meu mundo! 👋
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" width="40" height="40"/></code>&nbsp;
-	  <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/terraform.png" width="40" height="40"/></code>&nbsp;
-	  <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/MS-900.png" width="40" height="40"/></code>&nbsp;
+      <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/terraform.png" width="40" height="40"/></code>&nbsp;
 	  
 ### Licenças e Certificações 🧾
  <p align="left">
@@ -26,6 +25,7 @@ Oie, bem vindo ao meu mundo! 👋
 	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/SC-900.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/microsoft-certified-azure-administrator-associate-az-104.png" width="40" height="40"/></code>&nbsp;
          <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/AZ-700.png" width="40" height="40"/></code>&nbsp;
+	 <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/MS-900.png" width="40" height="40"/></code>&nbsp;
 	 
 ### Cursos 🔛
  - **Cisco Network Academy -  CCNA: Enterprise Networking, Security, and Automation** 
