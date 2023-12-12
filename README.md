@@ -10,8 +10,6 @@ Oie, bem vindo ao meu mundo! 👋
 </code>&nbsp;
      <code><img src="https://www.pikpng.com/pngl/m/597-5975393_microsoft-azure-logo-windows-microsoft-azure-logo-svg.png" width="45" height="40"/></code>&nbsp;
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="40" height="40"/></code>&nbsp;
-      <code><img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="40" height="40"/></code>&nbsp;
-      <code><img src="https://www.pikpng.com/pngl/m/39-398608_kubernetes-kubernetes-icon-svg-clipart.png" width="40" height="40"/></code>&nbsp;
       <code><img src="https://github.com/Day-bcc/Day-bcc/blob/main/terraform.png" width="40" height="40"/></code>&nbsp;
 	  
 ### Licenças e Certificações 🧾
